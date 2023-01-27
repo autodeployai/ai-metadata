@@ -30,7 +30,7 @@ AI-metadata provides a unified API to detect and extract metadata automatically,
 ## Installation
 
 ```bash
-pip install pypmml
+pip install ai-metadata
 ```
 
 Or install the latest version from github:
